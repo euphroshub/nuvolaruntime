@@ -41,6 +41,7 @@ commands:
               'pkgconfig(x11)' \
               'pkgconfig(xext)' \
               'pkgconfig(xextproto)' \
+              patch \
               python3-pyparsing \
               sqlite-devel \
               vala \
